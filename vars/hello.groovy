@@ -1,4 +1,4 @@
-def call_fun(name)
+def call(name)
 {
 echo "Hi ${name}"
 }
